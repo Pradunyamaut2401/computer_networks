@@ -1,6 +1,4 @@
-This assignment asks you to build a UDP-based scientific-calculator client–server and then use Wireshark in Mininet to observe how UDP behaves, including any packet loss.​
 
-text
 # CN Lab – Assignment 7: UDP Scientific Calculator with Packet-Loss Detection
 
 ## Objective
