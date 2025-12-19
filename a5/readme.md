@@ -1,6 +1,4 @@
-This assignment asks you to explore traffic generation tools (such as iperf and D‑ITG) within a Mininet-based lab, generate traffic between hosts, and relate them to packet capture and measurement.​
 
-text
 # CN Lab – Assignment 5: Packet Generation Tools
 
 ## Objective
