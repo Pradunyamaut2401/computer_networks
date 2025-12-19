@@ -1,6 +1,4 @@
-This assignment asks you to build a very simple C-based packet sniffer / analyzer that uses TCP/IP-related libraries (sockets or libpcap) to capture packets from a network interface, extract TCP/IP header fields, and treat that as a “mini network simulator” for TCP traffic analysis.​
 
-text
 # CN Lab – Assignment 6: Simple C-based TCP Traffic Analyzer
 
 ## Objective
